@@ -16,7 +16,7 @@ function Texto() {
                     <p>Ship your fintech products to your customers with fast and reliable processes. Secure and highly customizable. Rise Finance is the best partner for you if you want to scale your finance products worldwide. </p>
                 </div>
 
-                <div className="box-botao flex w-52 h-1 py-9 items-center justify-center border bg-transparent relative top-8 rounded cursor-pointer ">
+                <div className="box-botao px-20 py-4 w-60 relative top-8 border-2 text-white ">
                     <button>Conculation</button>
                 </div>
             </div>

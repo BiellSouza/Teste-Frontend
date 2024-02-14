@@ -12,6 +12,7 @@ export default {
       colors: {
         custom: {
           purple: '#111139',
+          
         },
       },
     },
